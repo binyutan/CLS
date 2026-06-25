@@ -1,0 +1,6 @@
+torch>=2.0
+numpy>=1.21
+scipy>=1.7
+nibabel>=4.0
+matplotlib>=3.5
+# monai>=1.2  # required when replacing placeholder UNETR/SwinUNETR with real implementations
